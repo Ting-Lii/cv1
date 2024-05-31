@@ -20,3 +20,8 @@ hr{
 img{
   height: 250px;
 }
+
+.right-aligned {
+  text-align: right; /* Aligns the content of the div to the right */
+  margin-top: 10px; /* Optional: Adds some space above the image */
+}
